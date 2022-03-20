@@ -4,7 +4,9 @@
 - 👯 I’m looking to collaborate on Front-End and java projects; ☕ | Procurando atuar com projetos Front-End e Java; ☕
 - ⚡ Fun fact: I love texas SLAB Culture and Street Workout 💪 | Amo a cultura SLAB do Texas e Calistenia 💪
 
-<div align="center">
+##
+
+<div align="center" style="display: inline_block>
   <a href="https://github.com/jadsonneres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadsonneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonneres&layout=compact&langs_count=7&theme=dracula"/>
