@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love texas SLAB Culture and Street Workout 💪 | Amo a cultura SLAB do Texas e Calistenia 💪
 
 ##
-
+<div style="display: flex">
 <div>
     <a href="https://github.com/jadsonneres">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadsonneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,8 @@
     <img align="center" alt="Jads-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jads-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Jads-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </div>
+</div>
+</div>
   
 ## 
 
