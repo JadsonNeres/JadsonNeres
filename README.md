@@ -6,7 +6,7 @@
 
 ##
 <div style="display: flex">
-<div>
+<div style="width: 50%">
     <a href="https://github.com/jadsonneres">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadsonneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonneres&layout=compact&langs_count=7&theme=dracula"/>
