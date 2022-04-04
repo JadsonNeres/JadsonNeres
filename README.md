@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate on Front-End and java projects; ☕ | Procurando atuar com projetos Front-End e Java; ☕
 - ⚡ Fun fact: I love texas SLAB Culture and Street Workout 💪 | Amo a cultura SLAB do Texas e Calistenia 💪
 
-###
-<div float="left">
+##
 <div align="center">
    <a href="https://github.com/jadsonneres">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadsonneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonneres&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,9 +16,8 @@
     <img align="center" alt="Jads-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Jads-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
-</div>
   
-###
+##
 
 <div> 
   <a href = "mailto:jadsonribeironeres@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
