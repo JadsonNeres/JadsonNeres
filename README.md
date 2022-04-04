@@ -6,7 +6,7 @@
 
 ##
 
-<Div style ="display: flex" >
+<div style ="display: flex" >
   <div>
     <a href="https://github.com/jadsonneres">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadsonneres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,7 +20,7 @@
     <img align="center" alt="Jads-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
 
-</Div>
+</div>
 ## 
 
 <div> 
