@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Front-End and java projects; ☕ | Procurando atuar com projetos Front-End e Java; ☕
 - ⚡ Fun fact: I love texas SLAB Culture and Street Workout 💪 | Amo a cultura SLAB do Texas e Calistenia 💪
 
-###
+##
 <div align="center">
 <div style="width: 50%">
     <a href="https://github.com/jadsonneres">
@@ -20,7 +20,7 @@
 </div>
 </div>
   
-### 
+##
 
 <div> 
   <a href = "mailto:jadsonribeironeres@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
